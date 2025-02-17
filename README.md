@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Insert own projects in this section (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Other Gigs</h2>
+<h2>📺 Not sure what to do with this section</h2>
 
 - [Graphics Design](https://boat10studios.myportfolio.com/graphics-design)
 - [Videography](https://boat10studios.myportfolio.com/videography)
