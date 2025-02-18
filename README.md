@@ -1,5 +1,8 @@
 <h1>Hi, I'm Kwame! <br/><a href="https://www.linkedin.com/in/kwameakomeah/">Business Analyst</a>, <a href="https://boat10studios.mypixieset.com/?fbclid=PAZXh0bgNhZW0CMTEAAaadz8RGO0pb1lvV9zVMkVHDA3n78zH_vGi7GO-uK4GsvuOKjbD24fXL4H4_aem_s693rwT9f2Aue8jxhaBNEQ">Photographer</a></h1>
 
+ <b> </b>
+ <b> </b>
+  
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Insert own projects in this section (AlgoExpert)</b>
@@ -7,10 +10,18 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Not sure what to do with this section</h2>
+  <b> </b>
+  <b> </b>
+   
+<h2>🗄️ Database Management Projects:</h2>
 
-- [Graphics Design](https://boat10studios.myportfolio.com/graphics-design)
-- [Videography](https://boat10studios.myportfolio.com/videography)
+- <b>Insert own projects in this section (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+ <b> </b>
+ <b> </b>
 
 <h2> 🤳 Connect with me:</h2>
 
